@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dep
 
 > a GitHub App built with [probot](https://github.com/probot/probot) that 
@@ -17,3 +18,4 @@ See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance 
 =======
 # dep
 pro-bot development 
+>>>>>>> 54d6cbc97ab44bf1b168e3d6aff0d9ff5b62f992
